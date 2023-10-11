@@ -1,0 +1,14 @@
+Aluno: Endy Rodrigues Bezerra
+Atividade
+
+Commit são alterações feitas sendo salvas e encerradas permanentemente.
+Branch são ramificações do código principal.
+Merge permite que o usuário pegue as linhas de desenvolvimento independente e coloque em outro local (Ramificações única).
+Mainline é a linha principal.
+Clone é usado para ter cópia dos arquivos de um repositório remoto para o local.
+Push leva o conteúdo do repositório local para o remoto.
+Pull pega as alterações de um repositório remoto para o local.
+ADD adiciona um conteúdo.
+Staged é algo encenado.
+Version é o processo de fechamento e publicação de arquivos.
+Repository é um objeto que isola entidades do domínio do código que acessa o banco de dados.
